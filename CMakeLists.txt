@@ -3,4 +3,4 @@ project(prim)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(prim main.cpp Graph.cpp Graph.hpp)
+add_executable(prim main.cpp Graph.cpp Graph.hpp Compator.hpp)
